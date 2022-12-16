@@ -9,7 +9,7 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		Assertions.fail("padlo to");
+		Assertions.fail("padlo to, padne zas?");
 	}
 
 }
